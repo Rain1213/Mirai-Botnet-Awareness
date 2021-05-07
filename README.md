@@ -6,8 +6,6 @@ Mirai is a worm-like family of malware that infects IoT devices. It has affected
 To curb this spread you will have to do your part.
 
 ## References
-- https://krebsonsecurity.com
 - https://www.youtube.com/watch?v=2Bt8cEe5rZc
 - https://www.imperva.com/blog/malware-analysis-mirai-ddos-botnet/?redirect=Incapsula
 - https://www.usenix.org/conference/enigma2017/summit-program/presentation/drawing-foul-operation-ddos-honeypot
-- https://www.imperva.com/blog/malware-analysis-mirai-ddos-botnet/?redirect=Incapsula
